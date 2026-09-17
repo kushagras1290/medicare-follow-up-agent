@@ -1,4 +1,4 @@
-# MediCare Patient Follow-Up Agent
+# MediCare Patient Follow-Up Agent(Sapient)
 
 An interview case-study prototype that uses an LLM agent to review patient records, identify clinical risks and create prioritised follow-up actions.
 
